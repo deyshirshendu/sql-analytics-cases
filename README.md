@@ -7,13 +7,14 @@ This repository contains 10+ real-world SQL problem scenarios inspired by analyt
 ## 📁 Structure
 
 ```
-├── README.md                # This file
-├── data.sql                 # Sample CREATE and INSERT statements
-├── queries.sql              # All 10 problem statements and SQL solutions
-└── problem-wise/            # (Optional) Each query split by file
-    ├── q1_second_highest_salary.sql
-    ├── q2_duplicate_records.sql
-    └── ...
+sql-analytics-usecases/
+├── README.md
+├── sql/
+│   ├── part01.sql   -- Q1 to Q10
+│   ├── part02.sql   -- Q11 to Q20 (future)
+│   ├── part03.sql   -- Q21 to Q30 (optional later)
+└── queries.sql       -- future scope
+
 ```
 
 ---
